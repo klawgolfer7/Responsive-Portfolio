@@ -1,0 +1,190 @@
+/*CSS File for HW1 for Rutgers.  About Me/Contact/Portfolio 
+HTML Files are attached to it.*/
+
+/*This is the about me container*/
+.container {
+	position: relative;
+	width: 600px;
+    padding: 20px;
+}
+
+
+/*Facebook, LinkedIN and Instagram Box*/
+.container2 {
+	position: relative;
+	width: 300px;
+	background-color: white;
+	left: 800px;
+	bottom: 528px;
+}
+
+/*Facebook, LinkedIN and Instagram Box*/
+.container2contact {
+	position: relative;
+	width: 300px;
+	background-color: white;
+	left: 800px;
+	bottom: 407px;
+}
+
+.container2portfolio {
+	position: relative;
+	width: 300px;
+	background-color: white;
+	left: 800px;
+	bottom: 107px;
+	height: 100px;
+}
+
+input {
+	padding: 4px;
+	padding-right: 400px;
+}
+
+.message {
+	height: 100px;
+}
+
+button {
+	padding: 10px;
+	width: 15%;
+	margin-left: 10px;
+	color: white;
+	background-color: #4aaaa5;
+}
+
+
+/*THis is the top box with my name in it*/
+header {
+	margin: 0;
+	padding: 0;
+	background-color: #4aaaa5;
+	/*^^^ This is the TEAL backgound color*/
+	border-color: #cccccc;
+	color: #ffffff;
+	font-family: "Georgia", Times, "Times New Roman", serif;
+	font-size: 40px;
+	width: 250px;
+	height: 82px;
+	float: left;
+	text-align: center;
+	padding-top: 40px;
+	margin-left: 140px;
+}
+
+
+
+footer {
+	clear: both;
+	background-color: grey;
+	padding: 40px;
+	color: white;
+	text-align: center;
+}
+
+img {
+	margin-left: 20px;
+	margin-right: 9px;
+	margin-bottom: 2px;
+	float: left;
+}
+
+h1 {
+	color: #4aaaa5;
+}
+
+h2 {
+	text-align: center;
+ 	padding-top: 20px;
+ 	padding-bottom: 0;
+}
+
+.practice {
+/*	float: left;*/
+	position: relative;
+    left: 40px;
+    width: 400px;
+    height: 40px;
+	padding-bottom: 20px;
+}
+
+/* resize images */
+.practice img {
+    width: 40px;
+    height: 40px;
+
+}
+
+#greenline {
+	clear: both;
+	background-color: #4aaaa5;
+	height: 6px;
+	color: white;
+	text-align: center;
+	margin-bottom: 0;
+	margin-top: 0;
+
+}
+
+
+.nav {
+	font-size: 30px;
+	padding-right: 130px;
+	font-style: italic;
+	position: relative;
+	left: 430px;
+	top: 40px;
+}
+
+
+.para {
+	margin: 10px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	font-style: sans-serif;
+	font-size: 18px
+	
+
+}
+
+/*p {
+	margin: 10px;
+	margin-left: 10px;
+}*/
+
+
+/*the cream background box*/
+.paragraphbackground {
+	background-color: #dddddd;
+	margin-top: 80px;
+	padding: 30px;
+	clear: both;
+
+
+}
+
+.whitebox {
+	background-color: white;
+	margin-left: 110px;
+}
+
+/*BOXES AND RECT ARE FOR THE OVERLAYED
+TEAL BOXES ON PORTFOLIO.HTML*/
+#boxes {
+	float: left;
+	position: relative;
+}
+.rect{
+  float:left;
+  height: 50px; 
+  position: relative;
+  width: 160px; 
+  background-color: #4aaaa5;
+  margin-left: 24px;
+  margin-right: 3px;
+  margin-bottom: 50px;
+}
+
+
+
+
